@@ -1,6 +1,6 @@
 # Site settings
 title: BOKI-LOG
-description: >
+description:
   code-achive
 
 baseurl: "" # the subpath of your site, e.g. /blog/
