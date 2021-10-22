@@ -1,7 +1,6 @@
 # Site settings
 title: BOKI-LOG
-description:
-  code-achive
+description: code-achive
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://devboki.github.io" # the base hostname & protocol for your site
