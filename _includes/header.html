@@ -2,7 +2,7 @@
     <div class="navigation">
         <a href="/" class="logo">{{ site.title }}</a>
 
-        <ul class="social-links">
+        <ul class="menu">
             {% if site.author.github %}>
             {% endif %}
             {% if site.author.twitter %}
@@ -10,7 +10,7 @@
         </ul>
     </div>
 
-    <ul class="menu">
+    <ul class="social-links">
        <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">📚</a></li>
        <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">💻</a></li>
        <li class="menu__entry"><a href="https://github.com/{{ site.author.github }}" target="_blank">💾</a></li>
