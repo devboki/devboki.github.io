@@ -11,14 +11,14 @@ published: true
 ---
 
 ### 목차
-___1. [HEADER](#header)
+1. [HEADER](#header)
 2. [LIST](#list)
 3. [FONT](#font)
 4. [BLOCK QUOTE](#block-quote)
 5. [LINK](#link)
 6. [IMAGE](#image)
 7. [TABLE](#table)
-8. [CODE BLOCK](#code-block)___
+8. [CODE BLOCK](#code-block)
 
 ---
 
@@ -43,10 +43,10 @@ header1
 header2
 ------
 ```
-header1
-======
-header2
-------
+header1<br>
+======<br>
+header2<br>
+------<br>
 
 ---
 
@@ -91,16 +91,16 @@ __bold *italic* bold__
 <!-- 주석 -->
 
 ```
-__bold__
-_italic_
-~~line~~
-<u>underline</u>
-__bold *italic* bold__
-`hightlight`
-공백&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;공백
+__bold__<br>
+_italic_<br>
+~~line~~<br>
+<u>underline</u><br>
+__bold *italic* bold__<br>
+`hightlight`<br>
+공백&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;공백<br><br>
 
-📘📒📚👀✨
-window10 `윈도우 키` + `.`
+📘📒📚👀✨<br>
+window10 `윈도우 키` + `.`<br>
 mac `command` + `control` + `space bar`
 
 
@@ -164,9 +164,10 @@ mac `command` + `control` + `space bar`
 |------ | :------| -----: | :-----: |  
 | data1 | 1      | 100    | ABCDEFG |  
 | data2 | 2      | 200    | abc     |
-왼쪽정렬 `:---`
-오른쪽정렬 `---:`
-양쪽정렬 `:---:`
+
+왼쪽정렬 `:---`<br>
+오른쪽정렬 `---:`<br>
+양쪽정렬 `:---:`<br>
 
 ---
 
